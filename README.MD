@@ -63,17 +63,21 @@
 
 ---
 
-### Instruction for viewing the database in the cloud using MongoDB Compass (GUI)
+### View the database in the cloud using MongoDB Compass GUI
 
 
 
 <br/>
 
-1. Open MongoDB Compass or any GUI
-1. Create a connection and paste the link access below
+
+1. Install MongoDB Compass
+1. Open MongoDB Compass or any Mongodb GUI tool
+1. Create a connection and paste the url below and connect.
+
    ```
    mongodb+srv://adacaUserReadOnly:rJYfUN5rv5RBtaDN@michael-antoni.0vpcv.mongodb.net/adaca-db?retryWrites=true&w=majority
    ```
+
 1. Note access is read only for viewing purposes
 
 <br/>
