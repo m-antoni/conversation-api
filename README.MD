@@ -1,11 +1,4 @@
-## General Information:
 
--   Submitted by: [Michael B. Antoni](https://michaelantoni.netlify.app/)
--   Email: michaelantoni.cs@gmail.com
-
----
-
-## Basic Usage
 
 ---
 
@@ -84,20 +77,12 @@
 1. Note access is read only for viewing purposes
 
 <br/>
-
----
-
-## Technologies used for this project
-
-
-- **Database**
-  - [MongoDB](http://www.mongodb.org/)
-- **Server/API**
-  - [Node](https://nodejs.org/)
-  - [Express](http://expressjs.com/)
-  - [TypeScript](https://www.typescriptlang.org/)
 <br/>
 <br/>
 
 ---
-### Let me know if there is problem setting up this project. Thanks :)
+
+<br/>
+
+-   Created by: [Michael B. Antoni](https://michaelantoni.netlify.app/)
+-   Email: michaelantoni.cs@gmail.com
