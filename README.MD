@@ -16,7 +16,7 @@
 
     The server is now listening at `http://localhost:8080` and watching for changes.
 
-1. To view the routes open a new terminal and run this **npm run route-list**
+1. To view the route list open a new terminal and run `npm run route-list`, that should display the ff.
       ```
       ┌─────┬───────────────┬────────────────────────────────────────┐
       │ #   │ METHOD        │ URI                                    │
@@ -63,7 +63,7 @@
 
 ---
 
-## Instruction for viewing the database in the cloud using MongoDB Compass (GUI)
+### Instruction for viewing the database in the cloud using MongoDB Compass (GUI)
 
 
 
@@ -80,9 +80,7 @@
 <br/>
 <br/>
 
----
 
-<br/>
 
 -   Created by: [Michael B. Antoni](https://michaelantoni.netlify.app/)
 -   Email: michaelantoni.cs@gmail.com
